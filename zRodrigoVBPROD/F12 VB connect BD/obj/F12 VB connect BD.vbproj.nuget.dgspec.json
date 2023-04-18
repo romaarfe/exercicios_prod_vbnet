@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\romaa\\Desktop\\zRodrigoVBPROD\\F12 VB connect BD\\F12 VB connect BD.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\romaa\\Desktop\\zRodrigoVBPROD\\F12 VB connect BD\\F12 VB connect BD.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\romaa\\Desktop\\zRodrigoVBPROD\\F12 VB connect BD\\F12 VB connect BD.vbproj",
+        "projectName": "F12 VB connect BD",
+        "projectPath": "C:\\Users\\romaa\\Desktop\\zRodrigoVBPROD\\F12 VB connect BD\\F12 VB connect BD.vbproj",
+        "packagesPath": "C:\\Users\\romaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romaa\\Desktop\\zRodrigoVBPROD\\F12 VB connect BD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\romaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.org/api/v2": {},
+          "https://www.nuget.org/api/v3/": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

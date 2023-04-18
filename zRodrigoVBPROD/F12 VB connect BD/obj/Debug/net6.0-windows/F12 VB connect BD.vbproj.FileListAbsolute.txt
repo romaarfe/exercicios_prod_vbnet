@@ -1,0 +1,73 @@
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.exe
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.deps.json
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.runtimeconfig.json
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\ref\F12 VB connect BD.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.pdb
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.AssemblyReference.cache
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12_VB_connect_BD.Form1.resources
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.GenerateResource.cache
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.AssemblyInfoInputs.cache
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.AssemblyInfo.vb
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.CoreCompileInputs.cache
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.CopyComplete
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\ref\F12 VB connect BD.dll
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.pdb
+C:\Users\PJ\Desktop\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.genruntimeconfig.cache
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.exe
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.deps.json
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.runtimeconfig.json
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.pdb
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.AssemblyReference.cache
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12_VB_connect_BD.Form1.resources
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.GenerateResource.cache
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.AssemblyInfo.vb
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.CopyComplete
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\refint\F12 VB connect BD.dll
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.pdb
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.genruntimeconfig.cache
+C:\Users\admin\Downloads\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\ref\F12 VB connect BD.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.exe
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.deps.json
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.runtimeconfig.json
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\F12 VB connect BD.pdb
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.AssemblyReference.cache
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12_VB_connect_BD.Form1.resources
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12_VB_connect_BD.Resources.resources
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.GenerateResource.cache
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.AssemblyInfoInputs.cache
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.AssemblyInfo.vb
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.CoreCompileInputs.cache
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.vbproj.CopyComplete
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\refint\F12 VB connect BD.dll
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.pdb
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\F12 VB connect BD.genruntimeconfig.cache
+C:\Users\romaa\Desktop\zRodrigoVBPROD\F12 VB connect BD\obj\Debug\net6.0-windows\ref\F12 VB connect BD.dll
