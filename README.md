@@ -20,4 +20,4 @@
 - SQL Server
 
 ---
-##### 📖 Projeto para Módulo de C# - IEFP
+##### 📖 Projeto para Módulo de VB.NET - IEFP
